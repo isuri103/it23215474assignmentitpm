@@ -1,0 +1,7 @@
+node_modules/
+playwright-report/
+test-results/
+test-results.json
+test-debug.log
+output.txt
+config.bat
